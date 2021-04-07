@@ -1,0 +1,22 @@
+{
+  "name": "zuri-nodejs",
+  "version": "1.0.0",
+  "description": "zuri nodejs tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobecci/zuri.git"
+  },
+  "author": "tobecci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobecci/zuri/issues"
+  },
+  "homepage": "https://github.com/tobecci/zuri#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.37"
+  }
+}
