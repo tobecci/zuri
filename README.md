@@ -1,11 +1,11 @@
-# pythonTask4
+# Python Task 5
 
 ## Questions
 
-* the user should see the current date and time after they login
-* when the user selects option 1, they should be presented with the following:
-    * how much would you like to withdraw(input: recieve input from the user), (output: take your cash)
-* when the user selects option 2, present them with the following options:
-    * how much would you like to deposit(receive input from the user), (output current balance)
-* when the user selects complaints, present them with the following options
-    * what issue will you like to report?(recieve input from the user), (output: thank you for contacting us)
+* create a budget class that can instantiate objects based on different budgets categories like, food, clothing, entertainment, etc. these objects should allow for
+  * depositing funds to each of the categories(done)
+  * withdrawing funds from each category(done)
+  * computing category balances
+  * transferring balance amounts between categories
+
+ 
