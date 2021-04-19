@@ -1,4 +1,5 @@
 # Task Title: NodeJS File System Task
+
 **backend** -> **javascript**  
 **Created 12-04-2021 08:39:46**  
 &nbsp;  
@@ -10,3 +11,10 @@
 3. posts.json or post.txt should be in a directory file called result.
 4. Create a github repository and push your work.
  
+
+## Installation
+
+* clone the repo
+* cd into repo directory
+* run `node app.js`
+* check the result folder, and you'll find your `post.json` file
